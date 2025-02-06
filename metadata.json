@@ -1,0 +1,45 @@
+{
+  "id": "IB067B030",
+  "title": {
+    "en": "The Chariot of the Accomplished Ones of the Dagpo Lineage",
+    "bo": "དྭགས་བརྒྱུད་གྲུབ་པའི་ཤིང་རྟ།"
+  },
+  "author": {
+    "en": "None",
+    "bo": "ཀརྨ་པ ༠༨་མི་བསྐྱོད་རྡོ་རྗེ།"
+  },
+  "imported": "2025-02-06T10:48:45.998413",
+  "source": "https://library.bdrc.io/show/bdr:WA22279?tabs=bdr:MW30021,bdr:W30021",
+  "toolkit_version": "0.0.1",
+  "parser": "DocxNumberListCommentaryParser",
+  "initial_creation_type": "google_docx",
+  "language": "bo",
+  "source_metadata": {
+    "presentation": {
+      "en": ""
+    },
+    "usage_title": {
+      "en": "The Chariot of the Accomplished Ones of the Dagpo Lineage",
+      "bo": "དྭགས་བརྒྱུད་གྲུབ་པའི་ཤིང་རྟ།"
+    },
+    "long_title": {
+      "en": "The Chariot of the Accomplished Ones of the Dagpo Lineage, An Oral Transmission of the Glorious Knower of the Three Times, A Commentary on Entering the Middle Way",
+      "bo": "དབུ་མ་ལ་འཇུག་པའི་རྣམ་བཤད་དཔལ་ལྡན་དུས་གསུམ་མཁྱེན་པའི་ཞལ་ལུང་དྭགས་བརྒྱུད་གྲུབ་པའི་ཤིང་རྟ།"
+    },
+    "commentary_of": "I25E452A9",
+    "document_id": "1jEfHa8Zr4e2nvzAvC1E5Deo5ej9jkiVyj0K-dQ4bXAU",
+    "commentary_alignments": [
+      {
+        "source": "I25E452A9/layers/CA29/Tibetan_Segment-D8D4.json",
+        "target": "IB067B030/layers/2C37/Meaning_Segment-ADA4.json"
+      }
+    ]
+  },
+  "bases": [],
+  "copyright": {
+    "status": "Unknown",
+    "notice": "",
+    "info_url": null
+  },
+  "licence": "Unknown"
+}
